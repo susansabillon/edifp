@@ -1,5 +1,7 @@
 body {
     background-color: #00f; /*azu*/
+    font-style:italic;
     font-style: bold;  /*negrita*/
     color:rgb(141, 36, 50); /*rojo*/ 
+    font-size:20px;
 }
